@@ -48,7 +48,7 @@ Smart IoT doorbell app with multi-camera support, WebRTC streaming, and ONNX-bas
 **Screenshots:**  
 | | | |
 |-|-|-|
-| ![s1](https://raw.githubusercontent.com/hamzasidd3634/My-Portfolio/refs/heads/master/1.webp) | ![s2]([https://via.placeholder.com/300x600?text=Screenshot+2](https://play-lh.googleusercontent.com/P4SiUfiU_8XjvWdOshwnsMoXdP0pnxIsJGFs91fpg-gDkNJAKFsU1jJbgGaq3t2RB34uhy1du7hIimOfflZ03J0=w5120-h2880-rw)) | ![s3]([https://via.placeholder.com/300x600?text=Screenshot+3](http://play-lh.googleusercontent.com/QHYt8gQTjS-Y6DBb2SHmgS4p4sjUVeT14Y0D6jSjcCBk7anInxtWfpgXJh7kSJL7dS3goozFM3y6VU5vbCCn=w5120-h2880-rw)) |
+| ![s1](https://raw.githubusercontent.com/hamzasidd3634/My-Portfolio/refs/heads/master/1.webp) | ![s2](https://raw.githubusercontent.com/hamzasidd3634/My-Portfolio/refs/heads/master/2.webp) | ![s3](http://raw.githubusercontent.com/hamzasidd3634/My-Portfolio/refs/heads/master/3.webp) |
 
 ---
 
@@ -66,7 +66,7 @@ Cross-platform eCommerce app built with Flutter & FFmpeg for optimized video enc
 
 | | | |
 |-|-|-|
-| ![s1](https://via.placeholder.com/300x600?text=Screenshot+1) | ![s2](https://via.placeholder.com/300x600?text=Screenshot+2) | ![s3](https://via.placeholder.com/300x600?text=Screenshot+3) |
+| ![s1](https://play-lh.googleusercontent.com/ZzxMwMtjfMHYHTo8-wYi3tf7IAK9nl4AtVAtQquwsjWdBvoVI5K3KDtNjjv1rAUejFs=w5120-h2880-rw) | ![s2](https://via.placeholder.com/300x600?text=Screenshot+2) | ![s3](https://via.placeholder.com/300x600?text=Screenshot+3) |
 
 ---
 
