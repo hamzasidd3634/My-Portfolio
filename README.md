@@ -109,13 +109,14 @@ A customizable Flutter package that provides real-time camera filters, beauty ef
 📷 Demo Preview
 	
 👨‍💻 Usage Example
+```dart
 CameraFilters(
   onDone: (file) {
     print("Filtered image path: ${file.path}");
   },
   filters: FiltersPreset.defaultFilters,
 )
-
+```
 ### 📊 GitHub Stats
 <div align="center">
 
