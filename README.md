@@ -87,6 +87,7 @@ VPN app featuring ad-rewarded Pro access, native background services, and sessio
 
 
 🎨 Camera Filters (Flutter Package)
+[![camera_filters on Pub](https://img.shields.io/pub/v/camera_filters?label=camera_filters&color=blueviolet)](https://pub.dev/packages/camera_filters)
 
 A customizable Flutter package that provides real-time camera filters, beauty effects, and GPU-powered rendering.
 
