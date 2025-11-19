@@ -62,7 +62,6 @@ Cross-platform eCommerce app built with Flutter & FFmpeg for optimized video enc
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=appstore&logoColor=white)](https://apps.apple.com/us/app/starbazaar/id1670553992)
 
 **Screenshots:**  
-➡️ *(Replace these with your own)*
 
 | | | |
 |-|-|-|
@@ -79,11 +78,10 @@ VPN app featuring ad-rewarded Pro access, native background services, and sessio
 [![Play Store](https://img.shields.io/badge/Play_Store-414141?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.speed.vpn.smart.vpnmaster.fast.pubg.tiktok)
 
 **Screenshots:**  
-➡️ *(Replace these with your own)*
 
 | | | |
 |-|-|-|
-| ![s1](https://via.placeholder.com/300x600?text=Screenshot+1) | ![s2](https://via.placeholder.com/300x600?text=Screenshot+2) | ![s3](https://via.placeholder.com/300x600?text=Screenshot+3) |
+| ![s1](https://play-lh.googleusercontent.com/YPnDXfo7VYYF_0MXCwDh5fCela7VfuefPUIh-Z8Br0f5FFGYk4YIDxpmSxmbQHlj7AMh=w5120-h2880-rw) | ![s2](https://play-lh.googleusercontent.com/ZmL5CG2JnhUzpv9X-ffZAJEnQgsqCFrp7eqSkqaSDUgj0o-r4B49d129fsTJErPRqnY=w5120-h2880-rw) | ![s3](https://play-lh.googleusercontent.com/2rQQ3Hzbj1LnDuCtdt-f7eGzpMEY1-AJbnTZ80s6oltmblmBu9jv_H5GFvD5w2If2g=w5120-h2880-rw) |
 
 ---
 
