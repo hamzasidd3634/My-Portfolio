@@ -46,11 +46,9 @@ Smart IoT doorbell app with multi-camera support, WebRTC streaming, and ONNX-bas
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=appstore&logoColor=white)](https://apps.apple.com/ca/app/irvinei-oval-ai-doorbell-hub/id6451442250)
 
 **Screenshots:**  
-➡️ *(Replace the below placeholder URLs with your real screenshot links)*
-
 | | | |
 |-|-|-|
-| ![s1](https://via.placeholder.com/300x600?text=Screenshot+1) | ![s2](https://via.placeholder.com/300x600?text=Screenshot+2) | ![s3](https://via.placeholder.com/300x600?text=Screenshot+3) |
+| ![s1]([https://via.placeholder.com/300x600?text=Screenshot+1](https://play-lh.googleusercontent.com/pkbTSefVpBpRN6DegEtMbVXnoBPaKtyohMAL4-yDmjGJZlQ8tkn1I50a-FHIu49ykB4oyGO8CY3b9iLSFydoOQ=w5120-h2880-rw)) | ![s2]([https://via.placeholder.com/300x600?text=Screenshot+2](https://play-lh.googleusercontent.com/P4SiUfiU_8XjvWdOshwnsMoXdP0pnxIsJGFs91fpg-gDkNJAKFsU1jJbgGaq3t2RB34uhy1du7hIimOfflZ03J0=w5120-h2880-rw)) | ![s3]([https://via.placeholder.com/300x600?text=Screenshot+3](http://play-lh.googleusercontent.com/QHYt8gQTjS-Y6DBb2SHmgS4p4sjUVeT14Y0D6jSjcCBk7anInxtWfpgXJh7kSJL7dS3goozFM3y6VU5vbCCn=w5120-h2880-rw)) |
 
 ---
 
