@@ -88,23 +88,14 @@ VPN app featuring ad-rewarded Pro access, native background services, and sessio
 
 🎨 Camera Filters (Flutter Package)
 
-A customizable Flutter package that provides real-time camera filters, beauty effects, and seamless photo capturing using GPU-accelerated rendering.
-
-📦 Package: camera_filters
-
-🛠️ Use Case: Integrated into projects requiring live filters, photo beautification, and Instagram-style camera effects.
+A customizable Flutter package that provides real-time camera filters, beauty effects, and GPU-powered rendering.
 
 🔥 Key Features
-
 📸 Real-time filters using GPU shaders
-
-🎨 30+ prebuilt filters (retro, cinematic, beauty, HDR, etc.)
-
-⚡ Smooth performance for low-end devices
-
-🔁 Works with front & back cameras
-
-🧩 Easy integration with Flutter apps
+🎨 30+ prebuilt filters (HDR, Retro, Beauty, Cinematic, etc.)
+⚡ Optimized for low-end devices
+🔁 Supports front & back cameras
+🧩 Plug-and-play integration
 
 📷 Demo Preview
 	
