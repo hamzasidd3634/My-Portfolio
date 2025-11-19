@@ -107,4 +107,4 @@ VPN app featuring ad-rewarded Pro access, native background services, and sessio
 ---
 
 ❤️ *Made with Flutter*  
-📄 [View My Full Resume](https://github.com/hamzasidd3634)
+📄 [View My Full Resume](https://github.com/hamzasidd3634/My-Portfolio/blob/45225b95bd729591d78c3ab17e3ff6fc6e302057/Hamza%20Resume.pdf)
