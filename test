@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hamza Shahid Siddiqui - Portfolio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background: #f5f5f5;
+      color: #333;
+    }
+    header {
+      background: #000;
+      color: #fff;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 36px;
+      font-weight: 700;
+    }
+    header p {
+      margin-top: 10px;
+      font-size: 18px;
+      opacity: 0.9;
+    }
+    .container {
+      max-width: 900px;
+      margin: 40px auto;
+      background: #fff;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    }
+    h2 {
+      margin-top: 40px;
+      font-size: 26px;
+    }
+    .section {
+      margin-bottom: 30px;
+    }
+    .badges img {
+      margin-right: 10px;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Hamza Shahid Siddiqui</h1>
+  <p>Senior Flutter Developer • WebRTC & Streaming Specialist</p>
+</header>
+
+<div class="container">
+  <section class="section">
+    <h2>About Me</h2>
+    <p>Hi! I'm <strong>Hamza Shahid Siddiqui</strong>, a senior Flutter developer with deep expertise in WebRTC, media streaming, AI integrations, and real-time applications. I build high‑performance apps with a focus on scalability, UX, and clean architecture.</p>
+  </section>
+
+  <section class="section">
+    <h2>Social & Profile Links</h2>
+    <div class="badges">
+      <a href="https://github.com/hamzasidd3634"><img src="https://img.shields.io/github/followers/hamzasidd3634?style=social"></a>
+      <a href="https://pub.dev/packages"><img src="https://img.shields.io/badge/Pub.dev-Packages-blue?logo=dart"></a>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>Skills</h2>
+    <ul>
+      <li>Flutter, Dart</li>
+      <li>WebRTC (ICE, STUN, TURN)</li>
+      <li>Real‑time video/audio streaming</li>
+      <li>Firebase, Node.js</li>
+      <li>Clean Architecture, Bloc, Riverpod</li>
+    </ul>
+  </section>
+
+  <section class="section">
+    <h2>Projects</h2>
+    <ul>
+      <li><strong>IRVINEi OVAL</strong> – Multi‑camera doorbell hub with WebRTC</li>
+      <li><strong>StarBazaar</strong> – E‑commerce (Android & iOS)</li>
+      <li>Multiple chat apps, social media systems, and custom AI tools</li>
+    </ul>
+  </section>
+
+  <section class="section">
+    <h2>Contact</h2>
+    <p>Email: <strong>hamzasidd36@gmail.com</strong></p>
+  </section>
+</div>
+
+<footer>© 2025 Hamza Siddiqui</footer>
+
+</body>
+</html>
